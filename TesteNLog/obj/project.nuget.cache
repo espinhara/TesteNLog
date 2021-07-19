@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HxsRguJ/cq3qMn/2vlVKYiLmg1VI5JDNEDSnc3fjYRYM9hizYTl3lxP2ESqvkPBN3JtPSLFSBM6it3GIQvItAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\espin\\source\\repos\\TesteNLog\\TesteNLog\\TesteNLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\espin\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512",
+    "C:\\Users\\espin\\.nuget\\packages\\nlog.config\\4.7.10\\nlog.config.4.7.10.nupkg.sha512",
+    "C:\\Users\\espin\\.nuget\\packages\\nlog.schema\\4.7.10\\nlog.schema.4.7.10.nupkg.sha512"
+  ],
+  "logs": []
+}
