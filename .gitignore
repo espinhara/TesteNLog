@@ -1,0 +1,9 @@
+.v2
+.suo
+.cache
+.pdb
+.dll
+deployfiles
+/backend/SouGuia.Test/obj/Debug/net5.0/SouGuia.Test.AssemblyInfo.cs
+.editorconfig
+.vscode/sftp.json
